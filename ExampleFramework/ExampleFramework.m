@@ -10,6 +10,6 @@
 
 @implementation ExampleFramework
 -(NSArray *) allTheThings {
-    return @[@"what", @"the", @"fuck"];
+    return @[@"HEY!", @"This", @"really", @"works!"];
 }
 @end
